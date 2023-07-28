@@ -1,4 +1,4 @@
 # CloudFormation
-O AWS CloudFormation é um serviço que fornece aos usuários uma forma fácil de criar um conjunto de recursos relacionados da AWS e de terceiros para provisioná-los e gerenciá-los de forma organizada e previsível.
+AWS CloudFormation is a service that provides users with an easy way to create a set of related AWS and third-party resources to provision and manage them in an organized and predictable way.
 
-Neste repositório você vai encontrar alguns arquivos de Infraestrutura como código (iaC)
+In this repository you will find some Infrastructure as Code (iaC) files
